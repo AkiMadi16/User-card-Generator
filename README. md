@@ -1,0 +1,7 @@
+# Creating a Vue App
+
+https://vuejs.org/guide/quick-start.html
+
+just add the CDN through script tag
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
